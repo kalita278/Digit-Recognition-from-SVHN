@@ -29,6 +29,8 @@ numbers in natural scene images). SVHN is obtained from house numbers in Google 
 
 Where the labels for each of this image are the prominent number in that image i.e. 2,6,7 and 4 respectively.
 
+**PROJECT OBJECTIVE**: To build a digit classifier on the SVHN (Street View Housing Number) dataset.
+
 The dataset has been provided in the form of h5py files. You can read about this file format here: https://docs.h5py.org/en/stable/
 
 Acknowledgement: Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Reading Digits in Natural Images with Unsupervised
